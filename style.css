@@ -3,9 +3,7 @@
 	padding: 0px;
 }
 #wrapper{
-	height: 1000px;
 	width: 970px;
-/*	background-color: blue;*/
 }
 #top{
 	height: 480;
@@ -92,6 +90,7 @@
 	padding: 5px;
 	text-align: center;
 	background: linear-gradient(#3575ad, #477ead, #3575ad);
+	box-shadow: 1px 1px 5px black;
 	border-radius: 4px;
 }
 #categories table{
@@ -105,7 +104,7 @@
 	font-size: 28px;
 }
 #top_main{
-	height: 300px;
+	height: 270px;
 	width: 950px;
 	margin: 5px;
 }
@@ -165,7 +164,7 @@
 .sub_main{
 	display: inline-block;
 	vertical-align: top;
-	height: 300px;
+	height: 240px;
 	width: 400px;
 	background-color: white;
 	border-top: 3px solid #73a7d5; 
@@ -173,7 +172,7 @@
 #spacersubmain{
 	display: inline-block;
 	vertical-align: top;
-	height: 300px;
+	height: 240px;
 	width: 30px;
 }
 .sub_main ul{
@@ -196,7 +195,7 @@
 	text-decoration: none;
 }
 #footer{
-	height: 200px;
+	height: 50px;
 	width: 970px;
 	text-align: center;
 	background: linear-gradient(#2a567b, #4480b3);
